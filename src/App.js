@@ -1,7 +1,14 @@
+// @flow
+
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * Top-level component for React App
+ * @return {*}
+ * @constructor
+ */
 function App() {
   return (
     <div className="App">
